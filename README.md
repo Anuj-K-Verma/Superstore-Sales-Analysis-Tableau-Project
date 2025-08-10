@@ -78,7 +78,7 @@ This project presents interactive Tableau dashboards for exploring business metr
 - `Superstore-Sales-Analysis-Project.twb` (Tableau Workbook)
 - `Superstore-sales.csv` (Raw Dataset)
 - `README.md` (Project Documentation)
-- 'Screenshot 2025-08-10 223427.png'(Preview of Dashboard)
+- `creenshot 2025-08-10 223427.png` (Preview of Dashboard)
 
 ---
 
