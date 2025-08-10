@@ -64,6 +64,8 @@ This project presents interactive Tableau dashboards for exploring business metr
 
 ---
 
+![Dashboard Screenshot](Screenshot 2025-08-10 223427.png)
+
 ## 💡 Example Insights
 
 - Top 3 states by total sales and profit identified for targeted marketing.
@@ -78,13 +80,10 @@ This project presents interactive Tableau dashboards for exploring business metr
 - `Superstore-Sales-Analysis-Project.twb` (Tableau Workbook)
 - `Superstore-sales.csv` (Raw Dataset)
 - `README.md` (Project Documentation)
+- 'Screenshot 2025-08-10 223427.png'(Preview of Dashboard)
 
 ---
 
-## 👩‍💻 Author & Credits
-
-- **Created by:** [Your Name or GitHub Username]
-- **Contact:** [Your Email or LinkedIn]
 
 ---
 
