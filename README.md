@@ -83,9 +83,3 @@ This project presents interactive Tableau dashboards for exploring business metr
 ---
 
 
----
-
-## 📎 License
-
-This project is for educational and non-commercial use only. Dataset credits to Tableau or sample data providers.
-
