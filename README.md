@@ -64,8 +64,6 @@ This project presents interactive Tableau dashboards for exploring business metr
 
 ---
 
-![Dashboard Screenshot](Screenshot 2025-08-10 223427.png)
-
 ## 💡 Example Insights
 
 - Top 3 states by total sales and profit identified for targeted marketing.
